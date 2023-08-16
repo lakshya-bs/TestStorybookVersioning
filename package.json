@@ -43,5 +43,8 @@
     "prop-types": "^15.8.1",
     "storybook": "^7.0.6",
     "vite": "^4.2.0"
+  },
+  "storybook": {
+    "url": "https://main--64dcd4f0098eb73121861123.chromatic.com"
   }
 }
